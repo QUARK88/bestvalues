@@ -12,7 +12,7 @@
 		"question": "War is fun.",
 		"effect": {
 			"econ": 0,
-			"dipl": -1,
+			"dipl": 1,
 			"govt": 0,
 			"scty": 0
 		}
