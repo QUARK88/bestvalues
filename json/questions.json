@@ -1,0 +1,38 @@
+[
+	{
+		"question": "I'm lazy.",
+		"effect": {
+			"econ": 1,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "War is fun.",
+		"effect": {
+			"econ": 0,
+			"dipl": 1,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "I like crime.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 1,
+			"scty": 0
+		}
+	},
+	{
+		"question": "I'm gay.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 0,
+			"scty": -1
+		}
+	}
+]

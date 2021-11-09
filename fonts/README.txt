@@ -1,0 +1,1 @@
+If you don't want to add custom fonts to your test, delete this file. If you plan on adding custom fonts, add them in this folder, then delete this file.

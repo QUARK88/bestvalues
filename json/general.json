@@ -1,0 +1,10 @@
+{
+	"title": "BestValues",
+	"version": "1.0.0",
+	"github": "https://github.com/quark88/bestvalues",
+	"link": "quark88.github.io",
+	"description": "The best test.",
+	"valQuestion": "What are the values?",
+	"valDescription": "Normal.",
+	"mainFont": "Montserrat"
+}
